@@ -1,4 +1,4 @@
-### Hello World
+### Hello
 
 Im Thomas Horsey. A Computer Science student at UQ majoring in Data Science.
 
