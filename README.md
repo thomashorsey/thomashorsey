@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World
+
+Im Thomas Horsey. A Computer Science student at UQ majoring in Data Science.
 
 <!--
 **thomashorsey/thomashorsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
