@@ -1,6 +1,6 @@
 ### Hello
 
-Im Tom, Im studying a Bachelor of Computer Science at The University of Queensland.
+I'm Tom, I'm studying a Bachelor of Computer Science at The University of Queensland.
 
 <!--
 **thomashorsey/thomashorsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
