@@ -1,6 +1,6 @@
 ### Hello
 
-Im Thomas Horsey. A Computer Science student at UQ majoring in Data Science.
+Im Tom, Im studying a Bachelor of Computer Science at The University of Queensland.
 
 <!--
 **thomashorsey/thomashorsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
